@@ -20,7 +20,7 @@
     <java.servlet.version>3.0.1</java.servlet.version>
     <junit.version>4.12</junit.version>
     <org.springframework.version>4.3.2.RELEASE</org.springframework.version>
-    <spring.security.version>4.1.1.RELEASE</spring.security.version>
+    <spring.security.version>5.2.10.RELEASE</spring.security.version>
 </properties>
 
     <dependencies>
